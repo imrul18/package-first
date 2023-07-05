@@ -1,0 +1,32 @@
+{
+  "name": "troy-first",
+  "version": "1.0.9",
+  "description": "first package",
+  "main": "dist/index",
+  "types": "dist/index",
+  "scripts": {
+    "build": "npx babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrul18/package-first.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Imrul Afnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imrul18/package-first/issues"
+  },
+  "homepage": "https://github.com/imrul18/package-first#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.6",
+    "@babel/preset-env": "^7.22.6",
+    "@babel/preset-react": "^7.22.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10"
+  }
+}
