@@ -1,30 +1,7 @@
-<div align="center">
-<img src="https://github.com/imrul18/imrul18/raw/main/hello.gif" width="30%">
-</div>
-
-## OVERVIEW
-
-Hi, this is Imrul Afnan. I love to work to develop mobile applications. Little less but also like to build web applications. Also working with API for mobile and web applications. I've been working for more than 2 years.
-
-<img align="right" width="320" height="220" src="https://github.com/imrul18/imrul18/raw/main/coding.png">
-
-## 💻 I’m currently working at <a href="https://viserx.com/">VISERX LIMITED</a> on
-
-- React-Native for mobile Application.
-- React.js for frontend design/development.
-- Node.js and Laravel for backend(API) development.
-
-### 📈 Statistics
-
-Checkout my work statistics below.
-
- <img  height= "130" align="left" alt="hmimeee" src="https://github-readme-streak-stats.herokuapp.com/?user=imrul18&theme=dark&hide_border=true" />
- <img height= "130" src="https://github-readme-stats.vercel.app/api?username=imrul18&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
-
-### 💬 Socials
-
-Connect with me through social media
-
-[![Linkedin: Imrul Afnan](https://img.shields.io/badge/-ImrulAfnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)](https://bd.linkedin.com/in/md-imrul-hosen-afnan-58415a210)
-
-<img src="https://github.com/imrul18/imrul18/raw/main/img.jpg" width="100%">
+<div>First of we need to login or sign up on <a href='https://www.npmjs.com/' target="_blank">NPM</a> website<div>
+<div>need to run <code>npm login</code> in vscode terminal </div>
+<div>need to run <code>npm run build</code> to create dist file </div>
+<div>need to run <code>npm version patch</code> to update version in package.json</div>
+<div>need to run <code>npm publish</code> to publish the package in global</div>
+<div>You can see your package list in <i>npmjs.com/~username</i> as example <a href='https://www.npmjs.com/~imrul18' target="_blank">npmjs.com/~imrul18</a></div>
+<div>You can also your package in <i>npmjs.com/package/package-name</i> as example <a href='https://www.npmjs.com/package/troy-first' target="_blank">npmjs.com/package/troy-first</a></div>
